@@ -1,8 +1,11 @@
 # Telecom-Churn-Prediction
+
 • Developed an Artificial Neural Network (ANN) using Keras for telecom customer churn prediction, deploying via Flask 
 RESTful API on AWS Beanstalk.
+
 • Utilized AWS RDS for preprocessing raw input data, connecting churn prediction API and database to Power BI for 
 analytics.
+
 • Developed and implemented a Power BI dashboard to visualize insights for customer success teams, integrating AWS 
 RDS data and monitoring model performance.
 
